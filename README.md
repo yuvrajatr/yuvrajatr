@@ -1,5 +1,26 @@
 <div align="center">
 
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <!-- Aesthetic Animated Desk / Screen -->
+      <img src="https://raw.githubusercontent.com/yuvrajatr/yuvrajatr/main/assets/workspace.gif" width="100%" alt="Developer Workspace" />
+    </td>
+    <td align="left" width="60%">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&multiline=true&width=450&height=120&lines=Hi+there%2C+I'm+Yuvraj+Atri+%F0%9F%91%8B;CSE+%40+NIT+Patna;Backend+%26+Deep+Learning;200%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+      </a>
+      <br/><br/>
+      <a href="https://linkedin.com/in/yuvraj-atri-373b43389"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://leetcode.com/u/yuvi_atr/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+      <a href="https://github.com/yuvrajatr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+<div align="center">
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Yuvraj+Atri+%F0%9F%91%8B;B.Tech+CSE+%40+NIT+Patna;Backend+Systems+%26+Deep+Learning;200%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </a>
