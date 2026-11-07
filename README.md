@@ -1,7 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Yuvraj Atri 👋
-### Computer Science & Engineering | NIT Patna
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Yuvraj+Atri+%F0%9F%91%8B;B.Tech+CSE+%40+NIT+Patna;Backend+Systems+%26+Deep+Learning;200%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-atri-373b43389)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yuvi_atr/)
@@ -18,9 +21,9 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in **Computer Science & Engineering** at **National Institute of Technology Patna**.
-- 💻 Passionate about **Backend Architectures, System Design, and Generative AI/Deep Learning**.
+- 💻 Focused on **Backend Architectures, System Design, and Generative AI/Deep Learning**.
 - 🏆 Solved **200+ problems on LeetCode**; actively practicing Data Structures & Algorithms.
-- 🎯 Building scalable full-stack applications and exploring modern AI integrations.
+- 🎯 Building production-grade web systems and exploring modern RAG pipelines.
 
 ---
 
@@ -68,9 +71,23 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajatr&theme=tokyo-night&area=true&hide_border=true&radius=8" width="97%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajatr&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/yuvi_atr?theme=dark&font=Ubuntu" width="60%" />
 </div>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajatr/yuvrajatr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajatr/yuvrajatr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuvrajatr/yuvrajatr/output/github-contribution-grid-snake.svg">
+</picture>
